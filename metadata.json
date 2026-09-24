@@ -1,0 +1,6 @@
+{
+  "name": "YAMAMA SHAWAYA | Fresh Shawaya, Shawarma & Grilled Food",
+  "description": "Discover delicious shawaya, shawarma and grilled favourites at YAMAMA SHAWAYA. Fresh ingredients, authentic flavours and quality food made for you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
